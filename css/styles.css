@@ -102,7 +102,7 @@ body {
      outline: none;
      padding: 10px;
      background-color: var(--navbar-color);
-     border-radius: 3px;
+     border-radius: 50px;
      color: #fff;
      height: 40px;
      font-size: 16px;
