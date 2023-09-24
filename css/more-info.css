@@ -16,7 +16,7 @@ body {
      gap: 15px;
      padding: 15px 50px;
      backdrop-filter: blur(2px);
-     border-radius: 10px;
+     border-radius: 50px;
      /* z-index: 10; */
 }
 
@@ -32,6 +32,7 @@ body {
      width: 20%;
      height: auto;
      min-width: 120px;
+      border-radius: 30px;
 }
 
 .more-info {
