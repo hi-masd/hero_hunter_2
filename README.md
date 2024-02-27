@@ -13,7 +13,7 @@ This project is Super Hero Hunter App in which we use marvel_API() to fetch the 
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-<li> Vanilla Java_Script<</li>
+<li> Vanilla Java_Script</li>
 <li>Basic user interface components for demonstration purposes</li>
 </ul>
 
